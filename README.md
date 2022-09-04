@@ -40,7 +40,7 @@ experience as Python Developer(Flask, Django) and currently working at Code Grap
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-<summary>GitHub Profile Stats 💻</summary>
+**GitHub Stats:** 
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mubashar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MbxrAteeq&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="160px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mubashar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MbxrAteeq&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="160px"/></a>
@@ -48,5 +48,6 @@ experience as Python Developer(Flask, Django) and currently working at Code Grap
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MbxrAteeq.MbxrAteeq)
 
-## GitHub Profile Trophy 🏆
+**GitHub Profile Trophy:** 
+<br/><br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=MbxrAteeq&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
