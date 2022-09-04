@@ -19,10 +19,19 @@ Here are some ideas to get you started:
 Hello, my name is Mubashar Ateeq and I'm Software Engineer, graduated fromthe University of Gujrat. I have 1+ year of
 experience as Python Developer(Flask, Django) and currently working at Code Graphers as Associate Python Developer.
 
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
+<br/>
+
 - 🔭 I’m currently working on Flask and Fast API
 - 💬 Brainstorm with me over tech, algorithms, and career
 - 📫 How to reach me: mubasharateeqccw@gmail.com
 - 😄 Pronouns: Programmer/Developer, IT Mazdoor
+- 📫 How to reach me: mubasharateeqccw@gmail.com
+- 😄 Pronouns: Programmer/Developer, IT Mazdoor
+
+<br/>
 
 **Languages and Tools:** 
 
