@@ -40,19 +40,11 @@ experience as Python Developer(Flask, Django) and currently working at Code Grap
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-<details> 
-  <summary>GitHub Profile Stats 💻</summary>
+<summary>GitHub Profile Stats 💻</summary>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mubashar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MbxrAteeq&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="160px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mubashar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MbxrAteeq&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="160px"/></a>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mubashar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MbxrAteeq&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="160px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mubashar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MbxrAteeq&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="160px"/></a>
-  <br/>
-</details>
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MUbashar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=MbxrAteeq&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
-</details>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MbxrAteeq.MbxrAteeq)
 
