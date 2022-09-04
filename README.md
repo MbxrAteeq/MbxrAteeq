@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Mubashar](https://MbxrAteeq.github.io/)!
+### Hi there 👋, I am [Mubashar](https://github.com/MbxrAteeq)!
 
 <!--
 **MbxrAteeq/MbxrAteeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,19 +15,15 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 Hello, my name is Mubashar Ateeq and I'm Software Engineer, graduated fromthe University of Gujrat. I have 1+ year of
 experience as Python Developer(Flask, Django) and currently working at Code Graphers as Associate Python Developer.
-
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <br/>
 
 - 🔭 I’m currently working on Flask and Fast API
 - 💬 Brainstorm with me over tech, algorithms, and career
-- 📫 How to reach me: mubasharateeqccw@gmail.com
-- 😄 Pronouns: Programmer/Developer, IT Mazdoor
 - 📫 How to reach me: mubasharateeqccw@gmail.com
 - 😄 Pronouns: Programmer/Developer, IT Mazdoor
 
@@ -62,5 +58,3 @@ experience as Python Developer(Flask, Django) and currently working at Code Grap
 
 ## GitHub Profile Trophy 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=MbxrAteeq&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
