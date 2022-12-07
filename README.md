@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-Hello, my name is Mubashar Ateeq and I'm Software Engineer, graduated fromthe University of Gujrat. I have 1+ year of
-experience as Python Developer(Flask, Django) and currently working at Code Graphers as Associate Python Developer.
+Hello, my name is Mubashar Ateeq and I'm Software Engineer, graduated fromthe University of Gujrat. I have almost 2 years of working
+experience as Python Developer(Flask, Django, FastAPI) and currently working at Code Graphers as Jr. Python Developer.
 
 <br/>
 
