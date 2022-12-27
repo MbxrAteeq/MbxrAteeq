@@ -22,7 +22,7 @@ experience as Python Developer(Flask, Django, FastAPI) and currently working at 
 
 <br/>
 
-- 🔭 I’m currently working on Flask and Fast API
+- 🔭 I’m currently working on Flask, Django and Fast API
 - 💬 Brainstorm with me over tech, algorithms, and career
 - 📫 How to reach me: mubasharateeqccw@gmail.com
 - 😄 Pronouns: Programmer/Developer, IT Mazdoor
